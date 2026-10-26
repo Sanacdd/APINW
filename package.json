@@ -1,4 +1,19 @@
 {
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Sanacdd/APINW#readme",
+  "bugs": {
+    "url": "https://github.com/Sanacdd/APINW/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanacdd/APINW.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
   "scripts": {
     "dev": "nodemon server.js",
     "start": "node server.js"
